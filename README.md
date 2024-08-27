@@ -65,3 +65,11 @@ This project focuses on analyzing supply and demand around these holidays by bui
 1. **Ensure all dependencies are installed**:
    ```bash
    pip install pandas numpy
+2. **Run the script**: Execute the script that extracts, transforms, aggregates, and saves the data.
+3. **Check the outputs**: Verify that `clean_data.csv` and `agg_data.csv` are present in your working directory.
+
+
+
+
+
+
